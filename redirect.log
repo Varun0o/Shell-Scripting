@@ -1,0 +1,6 @@
+PING aspartin.com (91.108.107.215) 56(84) bytes of data.
+64 bytes from 91.108.107.215 (91.108.107.215): icmp_seq=1 ttl=54 time=42.2 ms
+
+--- aspartin.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 42.169/42.169/42.169/0.000 ms
